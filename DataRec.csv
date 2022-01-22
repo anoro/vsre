@@ -1,4 +1,4 @@
-totalScore,grade,goalWPM,WPM,timer,stage,numberErrors,poolSize
+totalScore,grade,goalWPM,WPM,WPS,timerSec,timerMilSec,stage,numberErrors,poolSize
 90, U, 80, 59,29805, 41,08061, 1, 12, 25
 135, U, 40, 62,72667, 35,39165, 2, 19, 25
 180, E, 0, 63,86411, 29,50014, 3, 11, 25
